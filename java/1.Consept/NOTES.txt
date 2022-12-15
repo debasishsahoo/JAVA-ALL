@@ -1,0 +1,14 @@
+JDK(JAVA DEVLOPMENT KIT)
+JDK=JRE+DEVELOPMEMT TOOL
+
+JAVA PLATEFORM
+JAVA SE JAVA EE JAVA ME
+----------------------------------------------------------------
+JVM(JAVA VIRTUAL MACHIN)->Run Time Engine
+WORA(Write Ones Run Anyware)
+1.Loading
+2.Linking
+3.Initalization
+----------------------------------------------------------------
+JRE(JAVA RUN TIME ENV)
+JIT(JUST IN TIME COMPILER)
