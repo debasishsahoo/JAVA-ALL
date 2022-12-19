@@ -8,7 +8,6 @@ public class BooleanDataType {
      }
      if(a==false){
         System.out.println("Value of a:"+a);
-
      }
     }
 }
