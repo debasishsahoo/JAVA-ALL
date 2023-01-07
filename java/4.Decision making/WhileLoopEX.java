@@ -24,7 +24,6 @@ public class WhileLoopEX {
 
         int j=sc.nextInt();
         
-
         while(i<=j){
 
             System.out.println(i);
