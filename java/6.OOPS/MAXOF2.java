@@ -32,13 +32,16 @@ MAXOF2(int x,int y){
 
    public static void main(String []args){
 
-    Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter First Number:");
         int a = sc.nextInt();
 
         System.out.println("Enter Second Number:");
         int b = sc.nextInt();
+
+
+
 
         MAXOF2 abc=new MAXOF2(a, b);
 
