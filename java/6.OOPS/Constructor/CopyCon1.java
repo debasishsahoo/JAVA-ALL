@@ -2,7 +2,6 @@ public class CopyCon1 {
     int id;
     String name;
 
-
     CopyCon1(int i,String n){
         this.id=i;
         this.name=n;
