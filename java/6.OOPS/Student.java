@@ -40,7 +40,13 @@ public class Student {
 
 
     public static void main(String []args){
-        Student sahuObj=new Student("SAHU",23,101,"ME"); 
+
+        Student sahuObj=new Student("SAHU",23,101,"ME");
+        
+        
+
+
+        
         System.out.println("------------------------------------------------------");
 
         Student evanObj=new Student("Evan",20,100,"CSE"); 

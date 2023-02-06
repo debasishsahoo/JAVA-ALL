@@ -17,7 +17,13 @@ public class Con1{
     public static void main(String []args){
         //object of Con1 Class
 
+
+
         Con1 obj=new Con1(12,"Debasish");
+
+
+
+        
 
 
         System.out.println(obj.id);
