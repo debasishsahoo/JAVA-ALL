@@ -21,7 +21,9 @@ public class Bike extends AutoMobile {
         return handle;
     }
 
+    @Override
     public void run() {
         System.out.println("Bike Running..");
+        System.out.println("it is a");
     }
 }
