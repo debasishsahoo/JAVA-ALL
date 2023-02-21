@@ -1,3 +1,9 @@
 {
-  "java.debug.settings.onBuildFailureProceed": true
+  "java.debug.settings.onBuildFailureProceed": true,
+  "java.project.sourcePaths": [
+    "9. Inherentance/Parent",
+    "9. Inherentance/Child",
+    "9. Inherentance",
+    "10. Inherentance"
+  ]
 }

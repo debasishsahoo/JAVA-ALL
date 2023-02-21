@@ -4,6 +4,8 @@ public class Demo {
 
         bullet.Handel="Long";
         bullet.engine="Petrol";
+
+        System.out.println("Project Run");
     }
     
 }
