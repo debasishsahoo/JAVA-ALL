@@ -8,3 +8,9 @@ For a child class add at least 1 additional property and 1 additional method.
 
 Class implementation: Implement your design and test it in a Program.java class.
 
+
+technology->Folder
+             |_Computer.class ->parent class
+             |_Laptop.class -<child clas
+             |_SmartPhone.class
+           

@@ -1,0 +1,15 @@
+public class Laptop extends Computer{
+    String TouchPad;
+
+
+    public void getTouchPad(){
+        System.out.println("this is TouchPad")
+    }
+
+
+  
+
+
+
+
+}

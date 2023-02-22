@@ -1,0 +1,23 @@
+public class Computer{
+    //Properties
+    String cpu;
+    String ram;
+    String Storage;
+
+
+    Computer(String c,String r,String s){
+        this.cpu=c;
+        this.ram=r;
+        this.Storage=s;
+    }
+
+    public void getIO{
+        System.out.println("This is I/O")
+    }
+
+
+    public void getName{
+        System.out.println("This is Name")
+    }
+
+}
